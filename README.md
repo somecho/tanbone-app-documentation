@@ -57,7 +57,7 @@ and a page with links that was to be constantly updated with the latest mediao
 coverage of the situation in Myanmar. This version acted as a hub of media and
 information for users and is still online as of the time of this writing with
 the link: 
-https://hearthevoiceofmyanmar.app. The page with links is, however, no longer
+https://tanbonev1.soch.cc. The page with links is, however, no longer
 kept up to date. 
 
 ## Second Iteration
