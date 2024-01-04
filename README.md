@@ -18,8 +18,11 @@ of their idea. In the video, Tsao shakes their mobile phone. As the phone
 shakes, a field recording plays. At this point in time, a UI (user interface)
 had not yet been designed. Tsao shared an initial design and there were also
 plans to work with a Myanmar designer. This idea was eventually abandoned. 
-![First design](imgs/design1.png)
-*First design of the web application*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/somecho/tanbone-app-documentation/master/imgs/design1.png" width="720">
+<p><em>First design of the web application</em></p>
+</div>
 
 On the 7th of February, LiLi (KSA) notified Tsao of a possible exhibition of
 Tan Bone, which he had been working together with Joshua Weitzel. This marked
@@ -32,8 +35,10 @@ The version of the web application that was used for the first exhibition of Tan
 Bone was created with a design by French designer Louziness, who lived in
 Myanmar at the time. 
 
-![Second design](imgs/design2.PNG)
-*First iteration of the web application*
+<div align="center">
+<img src="https://raw.githubusercontent.com/somecho/tanbone-app-documentation/master/imgs/design2.PNG" width="320">
+<p><em>First iteration of the web application</em></p>
+</div>
 
 The web application was a mobile only website, where, upon loading, the user was
 prompted to unsilent the phone and click start before the recordings could be
@@ -64,11 +69,10 @@ the centerpiece. The centerpiece was inspired by traditional Myanmar textile
 patterns and is a minimal representation of them, using colors associated with
 the ongoing protests.
 
-![design 3](imgs/design3.PNG)
-*Desktop view of the second iteration*
-
-![design 3 mobile](imgs/design3-mobile.PNG)
-*Mobile view of the second iteration*
+<div align="center">
+<img src="https://raw.githubusercontent.com/somecho/tanbone-app-documentation/master/imgs/design3-mobile.PNG" width="320">
+<p><em>Mobile view of the second iteration</em></p>
+</div>
 
 This iteration of the web application kept the short introductory text by Thun
 Bohn Naing but forgoed the page with links in favor of a dedicated page
