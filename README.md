@@ -36,7 +36,7 @@ Bone was created with a design by French designer Louziness, who lived in
 Myanmar at the time. 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/somecho/tanbone-app-documentation/master/imgs/design2.PNG" width="320">
+<img src="https://raw.githubusercontent.com/somecho/tanbone-app-documentation/master/imgs/design2.PNG" width="320" class="vertical">
 <p><em>First iteration of the web application</em></p>
 </div>
 
@@ -70,7 +70,7 @@ patterns and is a minimal representation of them, using colors associated with
 the ongoing protests.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/somecho/tanbone-app-documentation/master/imgs/design3-mobile.PNG" width="320">
+<img src="https://raw.githubusercontent.com/somecho/tanbone-app-documentation/master/imgs/design3-mobile.PNG" width="320" class="vertical">
 <p><em>Mobile view of the second iteration</em></p>
 </div>
 
